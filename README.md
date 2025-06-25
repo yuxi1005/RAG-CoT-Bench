@@ -1,2 +1,2 @@
-# RAG-CoT-Bench
-一个集成了 检索增强生成（RAG）、逐步推理（Chain-of-Thought, CoT） 和 语义相似度评估 的文档问答系统，旨在实现具备可解释性、可追溯性 和 可量化评估能力的智能问答流程
+# Context-aware-Retrieval-Answering-with-Quality
+场景是用户输入《长安的荔枝》相关问题，通过CoT和RAG，基于deepseek v3进行推理检索答案，根据最终答案与事先准备的答案的语义相似度进行评估
